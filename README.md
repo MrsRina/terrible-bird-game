@@ -6,6 +6,6 @@ There is no license, also `bird.png` image file I take from some free website sp
 
 # Showcase
 
-If you want to play just execute `main.py` source code and done, the bird speed increase up every wall reach.
+If you want to play just execute `main.py` source code and done, the bird speed increase up every wall pass.
 
 ![](https://github.com/MrsRina/pygame-game-test/blob/main/splash.gif)
