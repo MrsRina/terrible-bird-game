@@ -9,4 +9,4 @@ If you want to play just execute `main.py` source code and done, every wall pass
 
 # Showcase
 
-![]()
+![](https://github.com/MrsRina/pygame-game-test/blob/main/splash.gif)
