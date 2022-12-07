@@ -1,7 +1,7 @@
 import pygame, math
 
 def linear_interpolation(a, b, dt):
-    if (b == 0):
+    if (dt == 0):
         return a
 
     return a + (b - a) * dt
